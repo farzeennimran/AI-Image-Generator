@@ -91,7 +91,6 @@ Gradio interface will look something like this
 
 ![gradio](https://github.com/user-attachments/assets/738e7c4c-ab51-4f9c-af95-adca01bdcf3c)
 
-
 ## Conclusion
 
 This AI Image Generator demonstrates the power and versatility of Stable Diffusion in creating art from simple text prompts. Whether you're experimenting with creative ideas or building sophisticated applications, this project serves as a starting point for exploring the possibilities of AI-generated imagery.
