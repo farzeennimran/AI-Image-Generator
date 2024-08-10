@@ -96,3 +96,7 @@ Gradio interface will look something like this
 This AI Image Generator demonstrates the power and versatility of Stable Diffusion in creating art from simple text prompts. Whether you're experimenting with creative ideas or building sophisticated applications, this project serves as a starting point for exploring the possibilities of AI-generated imagery.
 
 Feel free to fork this repository, contribute, and share your unique creations!
+
+## Learn More
+
+For more information on AI image generation and the technology behind it, check out my [Medium article]([your-medium-article-link](https://medium.com/@farzeeenimran/ai-image-generation-magic-myths-and-masterpieces-where-do-we-draw-the-line-d0955fd2c24a)).
