@@ -99,4 +99,5 @@ Feel free to fork this repository, contribute, and share your unique creations!
 
 ## Learn More
 
-For more information on AI image generation and the technology behind it, check out my [Medium article]([your-medium-article-link](https://medium.com/@farzeeenimran/ai-image-generation-magic-myths-and-masterpieces-where-do-we-draw-the-line-d0955fd2c24a)).
+For more information on AI image generation and the technology behind it, see my article: 
+https://medium.com/@farzeeenimran/ai-image-generation-magic-myths-and-masterpieces-where-do-we-draw-the-line-d0955fd2c24a
