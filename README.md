@@ -19,6 +19,8 @@ To run this project, you'll need the following dependencies:
 - torch
 - gradio
 
+To generate an API token from huggingface go to the link, login to your account or sign up if you dont have one. Then, go to profile settings and click on 'Access Tokens'. Click on create new token, an API token will be generated. Save it and use that in your code. 
+
 You can install the required libraries using pip:
 
 ```bash
